@@ -58,3 +58,4 @@ for i in range(len(json) - 1):
     else:
         print('Задание№', str(i + 1) + ':', 'IS PIZDOS I CANT CODE IT')
 print('Duxk что ты сделал')
+ k=input("gay"
